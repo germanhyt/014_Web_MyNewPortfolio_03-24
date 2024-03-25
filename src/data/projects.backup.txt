@@ -1,0 +1,844 @@
+
+// {
+//     id: 11,
+//     title: "Proyecto Portfolio Versión1 2022 - React",
+//     category: "Web",
+//     img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1694422711/Imagenes_Portafolio/proeyecto-portfolio-001_nmpjav.png",
+//     ProjectHeader: {
+//       title: "Proyecto Portfolio 2022",
+//       publishDate: "Junio del 2022",
+//       tags: "Web",
+//       link: "https://portfolio-web-ghyt.netlify.app/",
+//     },
+//     ProjectImages: [
+//       {
+//         id: 1,
+//         title: "",
+//         img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/proyecto-portfolio-react_pudr7k.webp",
+//       },
+//       {
+//         id: 2,
+//         title: "",
+//         img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/proyecto-portfolio-react_pudr7k.webp",
+//       },
+//       {
+//         id: 3,
+//         title: "",
+//         img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/proyecto-portfolio-react_pudr7k.webp",
+//       },
+//     ],
+//     ProjectInfo: {
+//       ClientHeading: "Acerca del cliente	",
+//       CompanyInfo: [
+//         {
+//           id: 1,
+//           title: "Nombre",
+//           details: "Proyecto Personal",
+//         },
+//         {
+//           id: 2,
+//           title: "Servicios",
+//           details: "-",
+//         },
+//         {
+//           id: 3,
+//           title: "Website",
+//           details: "-",
+//         },
+//         {
+//           id: 4,
+//           title: "Celular",
+//           details: "-",
+//         },
+//       ],
+//       ObjectivesHeading: "Objetivo",
+//       ObjectivesDetails:
+//         "Crear una página web para mostrar los distintos proyectos que se avanzaron en el 2022.",
+//       Technologies: [
+//         {
+//           title: "Tecnologías usadas",
+//           techs: ["HTML", "CSS", "JavaScript", "React js"],
+//         },
+//       ],
+//       ProjectDetailsHeading: "Datos y Desafíos del Proyecto",
+//       ProjectDetails: [
+//         {
+//           id: 1,
+//           details:
+//             "Este proyecto lista una cartera de proyectos útiles que sirvió como práctica para postular a prácticas, fue creada como primera versión de mi portfolio, es una landing page pero imcompleta de acuerdo a mi criterio para mostrar los diferentes proyectos, por ello se creó el portfolio web versión para suplir y tener un portfolio más completo.",
+//         },
+//       ],
+//       SocialSharingHeading: "Compartir proyecto",
+//       SocialSharing: [
+//         {
+//           id: 1,
+//           name: "Twitter",
+//           icon: <FiTwitter />,
+//           url: "https://twitter.com/",
+//         },
+//         {
+//           id: 2,
+//           name: "Instagram",
+//           icon: <FiInstagram />,
+//           url: "https://instagram.com/",
+//         },
+//         {
+//           id: 3,
+//           name: "Facebook",
+//           icon: <FiFacebook />,
+//           url: "https://facebook.com/",
+//         },
+//         {
+//           id: 4,
+//           name: "LinkedIn",
+//           icon: <FiLinkedin />,
+//           url: "https://linkedin.com/",
+//         },
+//         {
+//           id: 5,
+//           name: "Youtube",
+//           icon: <FiYoutube />,
+//           url: "https://www.youtube.com/",
+//         },
+//       ],
+//     },
+//   },
+// {
+//     id: 3,
+//     title: "Dashboard de ventas en sucursales de una empresa - Power BI",
+//     category: "Data Analytics",
+//     img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1693971283/Portfolio_Data-Analytics/001-Ventas_por_sucursal_xamb0g.png",
+//     ProjectHeader: {
+//       title: "Dashboard Análisis de ventas",
+//       publishDate: "Febrero del 2023",
+//       tags: "PowerBi",
+//       link: "https://unmsmmail-my.sharepoint.com/:f:/g/personal/german_huaytalla_unmsm_edu_pe/EjZXofo9TkJGhLz0LpAarmYBH3bm-qzB9CIcni9_ImUYfw?e=wYLkGp",
+//     },
+//     ProjectImages: [
+//       {
+//         id: 1,
+//         title: "",
+//         img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1693971283/Portfolio_Data-Analytics/003-Ventas_por_sucursal_mzawil.png",
+//       },
+//       {
+//         id: 2,
+//         title: "",
+//         img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1693971283/Portfolio_Data-Analytics/002-Ventas_por_sucursal_j98ccc.png",
+//       },
+//       {
+//         id: 3,
+//         title: "",
+//         img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1693971283/Portfolio_Data-Analytics/001-Ventas_por_sucursal_xamb0g.png",
+//       },
+//     ],
+//     ProjectInfo: {
+//       ClientHeading: "Acerca del cliente	",
+//       CompanyInfo: [
+//         {
+//           id: 1,
+//           title: "Nombre",
+//           details: "Proyecto Personal",
+//         },
+//         {
+//           id: 2,
+//           title: "Servicios",
+//           details: "-",
+//         },
+//         {
+//           id: 3,
+//           title: "Website",
+//           details: "-",
+//         },
+//         {
+//           id: 4,
+//           title: "Celular",
+//           details: "-",
+//         },
+//       ],
+//       ObjectivesHeading: "Objetivo",
+//       ObjectivesDetails:
+//         "Analizar dataset de ventas para la toma de decisiones",
+//       Technologies: [
+//         {
+//           title: "Tecnologías usadas",
+//           techs: ["PowerBI"],
+//         },
+//       ],
+//       ProjectDetailsHeading: "Datos y Desafíos del Proyecto",
+//       ProjectDetails: [
+//         {
+//           id: 1,
+//           details:
+//             "Este dataset muestra las ventas totales por fecha en diferentes sucursales de una empresa; la cantidad de clientes y nro de créditos por fecha; los pagos y adeudo que tienen estos clientes a la empresa por fecha.",
+//         },
+//         {
+//           id: 1,
+//           details: "Observamos el dashboard del proyecto y decimos:",
+//         },
+//         {
+//           id: 2,
+//           details:
+//             "- Tenemos un gráfico de líneas que mapea las Ventas Totales por mes y día, ventas que oscilan entre 0 y 300 mil dólares duante el año 2020.",
+//         },
+//         {
+//           id: 3,
+//           details:
+//             "- Tenemos un gráfico de barras que mapea las ventas totales por sucursales de la orgaización.",
+//         },
+//         {
+//           id: 4,
+//           details:
+//             "- Tenemos un segmentador por mes y sucursal que nos permite filtrar la data en los diferentes gráficos.",
+//         },
+//         {
+//           id: 5,
+//           details:
+//             "- Tenemos un gráfico de líneas que muestra el % de adeudo o deudas de clientes a la empresas por mes.",
+//         },
+//         {
+//           id: 6,
+//           details:
+//             "- Tenemos labels que muestran los clientes totales, ventas totales, pagos totales, porcentjae de pagos respecto al total de ventas, número de clientes con adeudo o deudas, y total de adeudo actual en los diferentes sucursales.",
+//         },
+//         {
+//           id: 7,
+//           details: "Podemos concluir que:",
+//         },
+//         {
+//           id: 8,
+//           details:
+//             "- En conclusión, es fundamental saber que el total de pagos que realizan los clientes a la empresa es mayor que el total de ventas estimado, por lo que el saldo es positivo y el riesgo de tener clientes con adeudo no es tan alto para impactar la rentabilidad.",
+//         },
+//       ],
+//       SocialSharingHeading: "Compartir proyecto",
+//       SocialSharing: [
+//         {
+//           id: 1,
+//           name: "Twitter",
+//           icon: <FiTwitter />,
+//           url: "https://twitter.com/",
+//         },
+//         {
+//           id: 2,
+//           name: "Instagram",
+//           icon: <FiInstagram />,
+//           url: "https://instagram.com/",
+//         },
+//         {
+//           id: 3,
+//           name: "Facebook",
+//           icon: <FiFacebook />,
+//           url: "https://facebook.com/",
+//         },
+//         {
+//           id: 4,
+//           name: "LinkedIn",
+//           icon: <FiLinkedin />,
+//           url: "https://linkedin.com/",
+//         },
+//         {
+//           id: 5,
+//           name: "Youtube",
+//           icon: <FiYoutube />,
+//           url: "https://www.youtube.com/",
+//         },
+//       ],
+//     },
+//   },
+// {
+// id: 99,
+// title: 'Dashboard Análisis Escuelas por estado',
+// category: 'Data Analytics',
+// img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1679590099/Imagenes_Portafolio/dashboard-4_cru0l2.png',
+// ProjectHeader: {
+// 	title: 'Dashboard Análisis Escuelas por estado',
+// 	publishDate: 'Febrero del 2023',
+// 	tags: 'Data Analytics',
+// 	link: 'https://unmsmmail-my.sharepoint.com/:f:/g/personal/german_huaytalla_unmsm_edu_pe/EqFYbljd1UBOuwBWc4mSqBIBgmwa7pL9fVmMnOq228m3nQ?e=eam7ec',
+// },
+// ProjectImages: [
+// 	{
+// 		id: 1,
+// 		title: '',
+// 		img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1690663442/Imagenes_Portafolio/proyecto2_dashboard_estudiantes_0_d8tiul.png',
+// 	},
+// 	{
+// 		id: 2,
+// 		title: '',
+// 		img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1690663442/Imagenes_Portafolio/proyecto2_dashboard_estudiantes_1_zbok3b.png',
+// 	},
+// 	{
+// 		id: 3,
+// 		title: '',
+// 		img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1690663442/Imagenes_Portafolio/proyecto2_dashboard_estudiantes_2_mw0jlk.png',
+// 	},
+// ],
+// ProjectInfo: {
+// 	ClientHeading: 'Acerca del cliente	',
+// 	CompanyInfo: [
+// 		{
+// 			id: 1,
+// 			title: 'Nombre',
+// 			details: 'Proyecto Personal',
+// 		},
+// 		{
+// 			id: 2,
+// 			title: 'Servicios',
+// 			details: '-',
+// 		},
+// 		{
+// 			id: 3,
+// 			title: 'Website',
+// 			details: '-',
+// 		},
+// 		{
+// 			id: 4,
+// 			title: 'Celular',
+// 			details: '-',
+// 		},
+// 	],
+// 	ObjectivesHeading: 'Objetivo',
+// 	ObjectivesDetails:
+// 		'Analizar dataset de Escuelas por estado para toma de decisiones',
+// 	Technologies: [
+// 		{
+// 			title: 'Tecnologías usadas',
+// 			techs: [
+// 				'PowerBI',
+// 			],
+// 		}
+// 	],
+// 	ProjectDetailsHeading: 'Datos y Desafíos del Proyecto',
+// 	ProjectDetails: [
+// 		{
+// 			id: 1,
+// 			details:
+// 				'En este dataset observamos las escuelas que existen en cada municipio y localidad en Mexico; las coordenadas donde quedan estas escuelas; y la cantidad de personal que se tiene por escuela.'
+// 		}, {
+// 			id: 2,
+// 			details:
+// 				'Observamos el dashboard del proyecto y decimos:'
+// 		}, {
+// 			id: 3,
+// 			details:
+// 				'- Tenemos la cantidad de escuelas por tipo de escuela, y también el total de escuelas dentro de país.'
+// 		}, {
+// 			id: 4,
+// 			details:
+// 				'- Tenemos filtros por entidad o localidad, municipio, y por el rango de personal que hay por escuela.'
+// 		}, {
+// 			id: 5,
+// 			details:
+// 				'- Tenemos un mapa para visualizar de forma dinámica en base a los filtros realizados.'
+// 		}, {
+// 			id: 6,
+// 			details:
+// 				'Podemos concluir que:'
+// 		}, {
+// 			id: 7,
+// 			details:
+// 				'- El análisis de este dashboard, nos permite conocer la cantidad apróximada de escuelas por locacalidad, municipio y tipo. Así también conocer la cantidad de personal ocupado que hay por escuela o en un conjunto de escuelas dentro de un municipio o localidad del país.'
+// 		},
+
+// 	],
+// 	SocialSharingHeading: 'Compartir proyecto',
+// 	SocialSharing: [
+// 		{
+// 			id: 1,
+// 			name: 'Twitter',
+// 			icon: <FiTwitter />,
+// 			url: 'https://twitter.com/',
+// 		},
+// 		{
+// 			id: 2,
+// 			name: 'Instagram',
+// 			icon: <FiInstagram />,
+// 			url: 'https://instagram.com/',
+// 		},
+// 		{
+// 			id: 3,
+// 			name: 'Facebook',
+// 			icon: <FiFacebook />,
+// 			url: 'https://facebook.com/',
+// 		},
+// 		{
+// 			id: 4,
+// 			name: 'LinkedIn',
+// 			icon: <FiLinkedin />,
+// 			url: 'https://linkedin.com/',
+// 		},
+// 		{
+// 			id: 5,
+// 			name: 'Youtube',
+// 			icon: <FiYoutube />,
+// 			url: 'https://www.youtube.com/',
+// 		},
+// 	],
+
+// }
+// },
+// {
+// id: 100,
+// 	title: 'Dashboard de zonas con más daños por temblor',
+// 	category: 'Data Analytics',
+// 	img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1679590099/Imagenes_Portafolio/dashboard-2_eztrvr.png',
+// 	ProjectHeader: {
+// 		title: 'Dashboard de zonas con más daños por temblor',
+// 		publishDate: 'Marzo del 2023',
+// 		tags: 'PowerBI',
+// 		link: 'https://unmsmmail-my.sharepoint.com/:f:/g/personal/german_huaytalla_unmsm_edu_pe/Er8n7PS1Z2dEn1jmgm8I6J4BnrsdXY4_OgKVKdRHDSliKA?e=RXv4ax',
+// 	},
+// 	ProjectImages: [
+// 		{
+// 			id: 1,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1690667823/Imagenes_Portafolio/proyecto3_dashboard_temblores_0_iu7isl.png',
+// 		},
+// 		{
+// 			id: 2,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1690667823/Imagenes_Portafolio/proyecto3_dashboard_temblores_2_a2haz1.png',
+// 		},
+// 		{
+// 			id: 3,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1690667823/Imagenes_Portafolio/proyecto3_dashboard_temblores_3_thniqf.png',
+// 		},
+// 	],
+// 	ProjectInfo: {
+// 		ClientHeading: 'Acerca del cliente	',
+// 		CompanyInfo: [
+// 			{
+// 				id: 1,
+// 				title: 'Nombre',
+// 				details: 'Proyecto Personal',
+// 			},
+// 			{
+// 				id: 2,
+// 				title: 'Servicios',
+// 				details: '-',
+// 			},
+// 			{
+// 				id: 3,
+// 				title: 'Website',
+// 				details: '-',
+// 			},
+// 			{
+// 				id: 4,
+// 				title: 'Celular',
+// 				details: '-',
+// 			},
+// 		],
+// 		ObjectivesHeading: 'Objetivo',
+// 		ObjectivesDetails:
+// 			'Analizar zonas con más daños por temblor para la toma de decisiones.',
+// 		Technologies: [
+// 			{
+// 				title: 'Tecnologías usadas',
+// 				techs: [
+// 					'PowerBI',
+// 				],
+// 			},
+// 		],
+// 		ProjectDetailsHeading: 'Datos y Desafíos del Proyecto',
+// 		ProjectDetails: [
+// 			{
+// 				id: 1,
+// 				details:
+// 					'Observamos el dashboard del proyecto y decimos:'
+// 			}, {
+// 				id: 2,
+// 				details:
+// 					'- Tenemos un heatmap o mapa de calor que nos indica las zonas de impacto de mayor intesidad y a su vez mayor frencuencia.'
+// 			}, {
+// 				id: 3,
+// 				details:
+// 					'- Tenemos un TreeMap o Mapa tipo Árbol que nos muestra el recuento de lugar de impacto.'
+// 			}, {
+// 				id: 4,
+// 				details:
+// 					'- Tenemos un filtro por tipo de daño que interacciona con el HeatMap y TreeMap, para mapear las zonas y el lugar donde más impacto tuvo el temblor.'
+// 			}, {
+// 				id: 5,
+// 				details:
+// 					'Podemos concluir que:'
+// 			}, {
+// 				id: 6,
+// 				details:
+// 					'- Las zona con mayores daños del sismo fue al sur de Mexico donde en su mayoría fueron perjudicados departamentos, casa, comercio y edificios.'
+// 			}
+
+// 		],
+// 		SocialSharingHeading: 'Compartir proyecto',
+// 		SocialSharing: [
+// 			{
+// 				id: 1,
+// 				name: 'Twitter',
+// 				icon: <FiTwitter />,
+// 				url: 'https://twitter.com/',
+// 			},
+// 			{
+// 				id: 2,
+// 				name: 'Instagram',
+// 				icon: <FiInstagram />,
+// 				url: 'https://instagram.com/',
+// 			},
+// 			{
+// 				id: 3,
+// 				name: 'Facebook',
+// 				icon: <FiFacebook />,
+// 				url: 'https://facebook.com/',
+// 			},
+// 			{
+// 				id: 4,
+// 				name: 'LinkedIn',
+// 				icon: <FiLinkedin />,
+// 				url: 'https://linkedin.com/',
+// 			},
+// 			{
+// 				id: 5,
+// 				name: 'Youtube',
+// 				icon: <FiYoutube />,
+// 				url: 'https://www.youtube.com/',
+// 			},
+// 		],
+
+// 	}
+// },
+// {
+// 	id: 101,
+// 	title: 'Filtro en Excel con Macros - Excel',
+// 	category: 'Data Analytics',
+// 	img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/proyecto-filtro-excel_sfkkpl.png',
+// 	ProjectHeader: {
+// 		title: 'Filtro en Excel',
+// 		publishDate: 'Enero del 2023',
+// 		tags: 'Data Analytics',
+// 		link: 'https://unmsmmail-my.sharepoint.com/:x:/g/personal/german_huaytalla_unmsm_edu_pe/ES2uWCY0SZJGsAcEU_02ptkBukpRaSUHQBm-OqeZohEXkw?e=Mbv72G',
+// 	},
+// 	ProjectImages: [
+// 		{
+// 			id: 1,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/proyecto-filtro-excel_sfkkpl.png',
+// 		},
+// 		{
+// 			id: 2,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/proyecto-filtro-excel_sfkkpl.png',
+// 		},
+// 		{
+// 			id: 3,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/proyecto-filtro-excel_sfkkpl.png',
+// 		},
+// 	],
+// 	ProjectInfo: {
+// 		ClientHeading: 'Acerca del cliente	',
+// 		CompanyInfo: [
+// 			{
+// 				id: 1,
+// 				title: 'Nombre',
+// 				details: 'Proyecto Personal',
+// 			},
+// 			{
+// 				id: 2,
+// 				title: 'Servicios',
+// 				details: '-',
+// 			},
+// 			{
+// 				id: 3,
+// 				title: 'Website',
+// 				details: '-',
+// 			},
+// 			{
+// 				id: 4,
+// 				title: 'Celular',
+// 				details: '-',
+// 			},
+// 		],
+// 		ObjectivesHeading: 'Objetivo',
+// 		ObjectivesDetails:
+// 			'Realizar  filtro de datos para encontrar data de forma rápida',
+// 		Technologies: [
+// 			{
+// 				title: 'Tecnologías usadas',
+// 				techs: [
+// 					'EXCEL',
+// 				],
+// 			},
+// 		],
+// 		ProjectDetailsHeading: 'Datos y Desafíos del Proyecto',
+// 		ProjectDetails: [
+// 			{
+// 				id: 1,
+// 				details:
+// 					'Es preferible descargar el archivo, ya que el proyecto está hecho en Macros.'
+// 			}, {
+// 				id: 2,
+// 				details:
+// 					'Este proyecto permite buscar en base a datos de clientes, en base a DNI y Nombre de clientes. Se observa que se carga datos en una hoja de excel, luego se usa macros para realizar un análisis comparativo para filtrar los detalles de un cliente en específico.'
+// 			},
+
+// 		],
+// 		SocialSharingHeading: 'Compartir proyecto',
+// 		SocialSharing: [
+// 			{
+// 				id: 1,
+// 				name: 'Twitter',
+// 				icon: <FiTwitter />,
+// 				url: 'https://twitter.com/',
+// 			},
+// 			{
+// 				id: 2,
+// 				name: 'Instagram',
+// 				icon: <FiInstagram />,
+// 				url: 'https://instagram.com/',
+// 			},
+// 			{
+// 				id: 3,
+// 				name: 'Facebook',
+// 				icon: <FiFacebook />,
+// 				url: 'https://facebook.com/',
+// 			},
+// 			{
+// 				id: 4,
+// 				name: 'LinkedIn',
+// 				icon: <FiLinkedin />,
+// 				url: 'https://linkedin.com/',
+// 			},
+// 			{
+// 				id: 5,
+// 				name: 'Youtube',
+// 				icon: <FiYoutube />,
+// 				url: 'https://www.youtube.com/',
+// 			},
+// 		],
+
+// 	}
+// },
+// {
+// 	id: 102,
+// 	title: 'Proyecto simulado de Netflix - PHP',
+// 	category: 'Web',
+// 	img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/pryecto-netflix-php_jjenyf.webp',
+// 	ProjectHeader: {
+// 		title: 'Proyecto Ecommerce - Comercial',
+// 		publishDate: 'Febrero del 2022',
+// 		tags: 'Web',
+// 		link: 'http://shermandeploy.byethost7.com/Netflix_ultimate/movie.html',
+// 	},
+// 	ProjectImages: [
+// 		{
+// 			id: 1,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/pryecto-netflix-php_jjenyf.webp',
+// 		},
+// 		{
+// 			id: 2,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/pryecto-netflix-php_jjenyf.webp',
+// 		},
+// 		{
+// 			id: 3,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1689974066/Imagenes_Portafolio/pryecto-netflix-php_jjenyf.webp',
+// 		},
+// 	],
+// 	ProjectInfo: {
+// 		ClientHeading: 'Acerca del cliente	',
+// 		CompanyInfo: [
+// 			{
+// 				id: 1,
+// 				title: 'Nombre',
+// 				details: 'Proyecto Personal',
+// 			},
+// 			{
+// 				id: 2,
+// 				title: 'Servicios',
+// 				details: '-',
+// 			},
+// 			{
+// 				id: 3,
+// 				title: 'Website',
+// 				details: '-',
+// 			},
+// 			{
+// 				id: 4,
+// 				title: 'Celular',
+// 				details: '-',
+// 			},
+// 		],
+// 		ObjectivesHeading: 'Objetivo',
+// 		ObjectivesDetails:
+// 			'Crear una aplicación web para el simular la web de Netflix',
+// 		Technologies: [
+// 			{
+// 				title: 'Tecnologías usadas',
+// 				techs: [
+// 					'HTML',
+// 					'CSS',
+// 					'JavaScript',
+// 					'PHP',
+// 				],
+// 			},
+// 		],
+// 		ProjectDetailsHeading: 'Datos y Desafíos del Proyecto',
+// 		ProjectDetails: [
+// 			{
+// 				id: 1,
+// 				details:
+// 					'Credenciales:'
+// 			},
+// 			{
+// 				id: 2,
+// 				details:
+// 					'- Rol cliente--> usuario: usuario@gmail.com y password: 123456'
+// 			},
+
+// 		],
+// 		SocialSharingHeading: 'Compartir proyecto',
+// 		SocialSharing: [
+// 			{
+// 				id: 1,
+// 				name: 'Twitter',
+// 				icon: <FiTwitter />,
+// 				url: 'https://twitter.com/',
+// 			},
+// 			{
+// 				id: 2,
+// 				name: 'Instagram',
+// 				icon: <FiInstagram />,
+// 				url: 'https://instagram.com/',
+// 			},
+// 			{
+// 				id: 3,
+// 				name: 'Facebook',
+// 				icon: <FiFacebook />,
+// 				url: 'https://facebook.com/',
+// 			},
+// 			{
+// 				id: 4,
+// 				name: 'LinkedIn',
+// 				icon: <FiLinkedin />,
+// 				url: 'https://linkedin.com/',
+// 			},
+// 			{
+// 				id: 5,
+// 				name: 'Youtube',
+// 				icon: <FiYoutube />,
+// 				url: 'https://www.youtube.com/',
+// 			},
+// 		],
+
+// 	}
+// },
+// {
+// 	id: 7,
+// 	title: 'Certificaciones Obtenidas - Drive',
+// 	category: 'Certification',
+// 	img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1690317596/Imagenes_Portafolio/certificaciones_cursos_ckoomk.png',
+// 	ProjectHeader: {
+// 		title: 'Certificaciones Obtenidas de cursos externos',
+// 		publishDate: 'Julio del 2023',
+// 		tags: 'Data Analytics',
+// 		link: 'https://drive.google.com/drive/folders/1t_GdF3Z_JcKcPVb03NB2zlFpC6sFiRTo?usp=sharing',
+// 	},
+// 	ProjectImages: [
+// 		{
+// 			id: 1,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1690317596/Imagenes_Portafolio/certificaciones_cursos_ckoomk.png',
+// 		},
+// 		{
+// 			id: 2,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1690317210/Imagenes_Portafolio/certificaciones_cursos_2_xkjz00.png',
+// 		},
+// 		{
+// 			id: 3,
+// 			title: '',
+// 			img: 'https://res.cloudinary.com/dz0ajaf3i/image/upload/v1690317210/Imagenes_Portafolio/certificaciones_cursos_1_qzx2jz.png',
+// 		},
+// 	],
+// 	ProjectInfo: {
+// 		ClientHeading: 'Acerca del cliente	',
+// 		CompanyInfo: [
+// 			{
+// 				id: 1,
+// 				title: 'Nombre',
+// 				details: 'Proyecto Personal',
+// 			},
+// 			{
+// 				id: 2,
+// 				title: 'Servicios',
+// 				details: '-',
+// 			},
+// 			{
+// 				id: 3,
+// 				title: 'Website',
+// 				details: '-',
+// 			},
+// 			{
+// 				id: 4,
+// 				title: 'Celular',
+// 				details: '-',
+// 			},
+// 		],
+// 		ObjectivesHeading: 'Objetivo',
+// 		ObjectivesDetails:
+// 			'Mostrar la validez de los conocimientos obtenidos',
+// 		Technologies: [
+// 			{
+// 				title: 'Tecnologías usadas',
+// 				techs: [
+// 					'Driv',
+// 				],
+// 			},
+// 		],
+// 		ProjectDetailsHeading: 'Datos y Desafíos del Proyecto',
+// 		ProjectDetails: [
+// 			{
+// 				id: 1,
+// 				details:
+// 					'Mostrar la validez de los conocimientos obtenidos.'
+// 			},
+
+// 		],
+// 		SocialSharingHeading: 'Compartir proyecto',
+// 		SocialSharing: [
+// 			{
+// 				id: 1,
+// 				name: 'Twitter',
+// 				icon: <FiTwitter />,
+// 				url: 'https://twitter.com/',
+// 			},
+// 			{
+// 				id: 2,
+// 				name: 'Instagram',
+// 				icon: <FiInstagram />,
+// 				url: 'https://instagram.com/',
+// 			},
+// 			{
+// 				id: 3,
+// 				name: 'Facebook',
+// 				icon: <FiFacebook />,
+// 				url: 'https://facebook.com/',
+// 			},
+// 			{
+// 				id: 4,
+// 				name: 'LinkedIn',
+// 				icon: <FiLinkedin />,
+// 				url: 'https://linkedin.com/',
+// 			},
+// 			{
+// 				id: 5,
+// 				name: 'Youtube',
+// 				icon: <FiYoutube />,
+// 				url: 'https://www.youtube.com/',
+// 			},
+// 		],
+
+// 	}
+// },
+
