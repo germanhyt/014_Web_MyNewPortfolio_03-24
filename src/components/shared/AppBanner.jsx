@@ -77,9 +77,9 @@ const AppBanner = () => {
             duration: 0.9,
             delay: 0.2,
           }}
-          className="font-general-medium mt-4 mb-4 text-lg md:text-sm lg:text-lg xl:text-2xl text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200"
+          className="font-general-medium mt-4 mb-4 text-lg md:text-sm lg:text-md xl:text-xl text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200"
         >
-          Cuéntame en qué puedo ayudarte...
+          Te presento mi portfolio personal...
         </motion.p>
         <motion.div
           initial={{ opacity: 0 }}
