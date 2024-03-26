@@ -1,39 +1,37 @@
-import { Link } from 'react-router-dom';
-import AppBanner from '../components/shared/AppBanner';
-import ProjectsGrid from '../components/projects/ProjectsGrid';
-import { ProjectsProvider } from '../context/ProjectsContext';
-import Button from '../components/reusable/Button';
-import SectionAboutMe from '../components/reusable/SectionAboutMe';
-import SectionTechs from '../components/reusable/SectionTechs';
+import { Link } from "react-router-dom";
+import AppBanner from "../components/shared/AppBanner";
+import ProjectsGrid from "../components/projects/ProjectsGrid";
+import { ProjectsProvider } from "../context/ProjectsContext";
+import Button from "../components/reusable/Button";
+import SectionAboutMe from "../components/reusable/SectionAboutMe";
+import SectionTechs from "../components/reusable/SectionTechs";
 
 const Home = () => {
-	return (
-		<div className="relative">
+  return (
+    <div className="relative">
+      <AppBanner />
 
-			<AppBanner/>
+      <div className="w-full bg-primary-light dark:bg-secondary-dark ">
+        <ProjectsProvider>
+          <ProjectsGrid page="home" />
+        </ProjectsProvider>
 
-			<div className="w-full bg-primary-light dark:bg-secondary-dark ">
-				<ProjectsProvider>
-					<ProjectsGrid page="home" />
-				</ProjectsProvider>
+        <div className="mt-8 sm:mt-10 flex justify-center ">
+          <Link
+            to="/projects"
+            className="font-general-medium flex items-center px-6 py-3 rounded-lg shadow-lg hover:shadow-xl bg-[#0123E7] hover:bg-indigo-600 focus:ring-1 focus:ring-indigo-900 text-white text-lg sm:text-xl duration-300"
+            aria-label="More Projects"
+          >
+            <Button title="Más Proyectos" />
+          </Link>
+        </div>
 
-				<div className="mt-8 sm:mt-10 flex justify-center ">
-					<Link
-						to="/projects"
-						className="font-general-medium flex items-center px-6 py-3 rounded-lg shadow-lg hover:shadow-xl bg-[#0123E7] hover:bg-indigo-600 focus:ring-1 focus:ring-indigo-900 text-white text-lg sm:text-xl duration-300"
-						aria-label="More Projects"
-					>
-						<Button title="Más Proyectos" />
-					</Link>
-				</div>
+        <SectionAboutMe />
 
-				<SectionAboutMe />
-
-				<SectionTechs/>
-			</div>
-
-		</div>
-	);
+        <SectionTechs />
+      </div>
+    </div>
+  );
 };
 
 export default Home;
