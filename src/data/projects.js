@@ -419,7 +419,7 @@ export const projectsData = [
       title: "Proyecto Ecommerce - Comercial",
       publishDate: "Junio del 2022",
       tags: "Web",
-      link: "http://shermandeploy.byethost7.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/",
+      link: "http://shermansystems.byethost8.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/",
     },
     ProjectImages: [
       {
@@ -464,18 +464,11 @@ export const projectsData = [
       ],
       ObjectivesHeading: "Objetivo",
       ObjectivesDetails:
-        "Crear una aplicación web para el incremento de ventas de una microempresa. También poner en práctica los conceptos de programación, patrones de diseño, patrones de arquitectura y metdologías de proyectos.",
+        "Crear una aplicación web para el incremento de ventas de una microempresa. También poner en práctica los conceptos de programación, patrones de diseño, patrones de arquitectura y metodologías de proyectos.",
       Technologies: [
         {
           title: "Tecnologías usadas",
-          techs: [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "React js",
-            "TailwindCSS",
-            "EmailJs",
-          ],
+          techs: ["HTML", "CSS", "JavaScript", "PHP", "Mysql"],
         },
       ],
       ProjectDetailsHeading: "Datos y Desafíos del Proyecto",
@@ -491,8 +484,7 @@ export const projectsData = [
         },
         {
           id: 4,
-          details:
-            "- Rol Admin --> usuario: admmin@gmail.com y password: admin",
+          details: "- Rol Admin --> usuario: admin@gmail.com y password: admin",
         },
         {
           id: 5,
@@ -558,7 +550,7 @@ export const projectsData = [
       title: "Sistema de gestión de ventas",
       publishDate: "Mayo del 2023",
       tags: "Web",
-      link: "http://shermandeploy.byethost7.com/7_2_pos_venta_prod/",
+      link: "http://shermansystems.byethost8.com/7_2_pos_venta_prod/",
     },
     ProjectImages: [
       {
@@ -607,7 +599,7 @@ export const projectsData = [
       Technologies: [
         {
           title: "Tecnologías usadas",
-          techs: ["HTML", "CSS", "JavaScript", "PHP"],
+          techs: ["HTML", "CSS", "JavaScript", "PHP", "Mysql"],
         },
       ],
       ProjectDetailsHeading: "Datos y Desafíos del Proyecto",
@@ -709,7 +701,7 @@ export const projectsData = [
       title: "Proyecto Ecommerce - Comercial",
       publishDate: "Junio del 2022",
       tags: "Web",
-      link: "http://shermandeploy.byethost7.com/Proyecto_Farmacia_ultimate/",
+      link: "http://shermansystems.byethost8.com/Proyecto_Farmacia_ultimate/",
     },
     ProjectImages: [
       {
@@ -1239,7 +1231,7 @@ export const projectsData = [
       title: "Proyecto Api tipo REST",
       publishDate: "Enero del 2022",
       tags: "Web",
-      link: "http://shermandeploy.byethost7.com/Backend_Apirest_PHP_users/users?page=1",
+      link: "http://shermansystems.byethost8.com/Backend_Apirest_PHP_users/",
     },
     ProjectImages: [
       {
@@ -1637,6 +1629,119 @@ export const projectsData = [
           id: 2,
           details:
             "Los dispositivos input que observamos son switch on-off, button, regulador numèrico, regulador tipo palanca. Como ouput vemos la lámpara, el LED y ventilador. Los dispositivos input del MCU manda señales analógicas o digitales dependiendo el tipo hacia los dispositivos ouput.",
+        },
+      ],
+      SocialSharingHeading: "Compartir proyecto",
+      SocialSharing: [
+        {
+          id: 1,
+          name: "Twitter",
+          icon: <FiTwitter />,
+          url: "https://twitter.com/",
+        },
+        {
+          id: 2,
+          name: "Instagram",
+          icon: <FiInstagram />,
+          url: "https://instagram.com/",
+        },
+        {
+          id: 3,
+          name: "Facebook",
+          icon: <FiFacebook />,
+          url: "https://facebook.com/",
+        },
+        {
+          id: 4,
+          name: "LinkedIn",
+          icon: <FiLinkedin />,
+          url: "https://linkedin.com/",
+        },
+        {
+          id: 5,
+          name: "Youtube",
+          icon: <FiYoutube />,
+          url: "https://www.youtube.com/",
+        },
+      ],
+    },
+  },
+  {
+    id: 14,
+    title: "Proyecto Ecommerce Groceries B2C - PHP",
+    category: "Web",
+    img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1712395387/Ecommerce-frontend/image_148_gsevqx.svg",
+    ProjectHeader: {
+      title: "Plantilla Ecormmerce General B2C",
+      publishDate: "Marzo del 2024",
+      tags: "Web",
+      link: "https://013-web-nextjs-ecommerce-base-itr0-4e3wxahzr.vercel.app/",
+    },
+    ProjectImages: [
+      {
+        id: 1,
+        title: "",
+        img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1712395387/Ecommerce-frontend/image_148_gsevqx.svg",
+      },
+      {
+        id: 2,
+        title: "",
+        img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1712395387/Ecommerce-frontend/image_148_gsevqx.svg",
+      },
+      {
+        id: 3,
+        title: "",
+        img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1712395387/Ecommerce-frontend/image_148_gsevqx.svg",
+      },
+    ],
+    ProjectInfo: {
+      ClientHeading: "Acerca del cliente	",
+      CompanyInfo: [
+        {
+          id: 1,
+          title: "Nombre",
+          details: "Proyecto Personal",
+        },
+        {
+          id: 2,
+          title: "Servicios",
+          details: "-",
+        },
+        {
+          id: 3,
+          title: "Website",
+          details: "-",
+        },
+        {
+          id: 4,
+          title: "Celular",
+          details: "-",
+        },
+      ],
+      ObjectivesHeading: "Objetivo",
+      ObjectivesDetails:
+        "Crear una aplicación web para el incremento de ventas de una microempresa. También poner en práctica los conceptos de programación, patrones de diseño, patrones de arquitectura y metodologías de proyectos.",
+      Technologies: [
+        {
+          title: "Tecnologías usadas",
+          techs: ["HTML", "CSS", "JavaScript", "ReactJS", "NextJS"],
+        },
+      ],
+      ProjectDetailsHeading: "Datos y Desafíos del Proyecto",
+      ProjectDetails: [
+        {
+          id: 1,
+          details: "Consideraciones de la aplicación web:",
+        },
+        {
+          id: 2,
+          details:
+            "- El proyecto se trabajó bajo programación estructurada, se usó los lienamientos de la Clean Architecture donde se separó por carpetas los archivos. ",
+        },
+        {
+          id: 3,
+          details:
+            "- Se usó NextJS para la creación de la aplicación web, se usó el framework de ReactJS para la creación de componentes y el manejo de estados. Aparte se integró Resend y Axios para el manejo de peticiones HTTP y envío de correos.",
         },
       ],
       SocialSharingHeading: "Compartir proyecto",
