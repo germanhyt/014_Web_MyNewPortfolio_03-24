@@ -1668,7 +1668,7 @@ export const projectsData = [
   },
   {
     id: 14,
-    title: "Proyecto Ecommerce Groceries B2C - PHP",
+    title: "Plantilla Ecormmerce General B2C",
     category: "Web",
     img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1712395387/Ecommerce-frontend/image_148_gsevqx.svg",
     ProjectHeader: {
@@ -1742,6 +1742,118 @@ export const projectsData = [
           id: 3,
           details:
             "- Se usó NextJS para la creación de la aplicación web, se usó el framework de ReactJS para la creación de componentes y el manejo de estados. Aparte se integró Resend y Axios para el manejo de peticiones HTTP y envío de correos.",
+        },
+      ],
+      SocialSharingHeading: "Compartir proyecto",
+      SocialSharing: [
+        {
+          id: 1,
+          name: "Twitter",
+          icon: <FiTwitter />,
+          url: "https://twitter.com/",
+        },
+        {
+          id: 2,
+          name: "Instagram",
+          icon: <FiInstagram />,
+          url: "https://instagram.com/",
+        },
+        {
+          id: 3,
+          name: "Facebook",
+          icon: <FiFacebook />,
+          url: "https://facebook.com/",
+        },
+        {
+          id: 4,
+          name: "LinkedIn",
+          icon: <FiLinkedin />,
+          url: "https://linkedin.com/",
+        },
+        {
+          id: 5,
+          name: "Youtube",
+          icon: <FiYoutube />,
+          url: "https://www.youtube.com/",
+        },
+      ],
+    },
+  },
+  {
+    id: 15,
+    title: "Análisis de data de Ventas - Sql Server & Power BI",
+    category: "Data Analytics",
+    img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1712418675/Ecommerce-frontend/dashboard_1_m1yzor.svg",
+    ProjectHeader: {
+      title: "Dashboard de Análisis de data de Producción",
+      publishDate: "Julio del 2023",
+      tags: "Data Analytics",
+      link: "https://github.com/germanhyt/001_BI_SalesAnalytics",
+    },
+    ProjectImages: [
+      {
+        id: 1,
+        title: "",
+        img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1712418675/Ecommerce-frontend/dashboard_1_m1yzor.svg",
+      },
+      {
+        id: 2,
+        title: "",
+        img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1712418675/Ecommerce-frontend/dashboard_1_m1yzor.svg",
+      },
+      {
+        id: 3,
+        title: "",
+        img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1712418675/Ecommerce-frontend/dashboard_1_m1yzor.svg",
+      },
+    ],
+    ProjectInfo: {
+      ClientHeading: "Acerca del cliente	",
+      CompanyInfo: [
+        {
+          id: 1,
+          title: "Nombre",
+          details: "Proyecto Personal",
+        },
+        {
+          id: 2,
+          title: "Servicios",
+          details: "-",
+        },
+        {
+          id: 3,
+          title: "Website",
+          details: "-",
+        },
+        {
+          id: 4,
+          title: "Celular",
+          details: "-",
+        },
+      ],
+      ObjectivesHeading: "Objetivo",
+      ObjectivesDetails:
+        "Generar gráficos para ayudar a la mejora de toma de decisiones en la organización",
+      Technologies: [
+        {
+          title: "Tecnologías usadas",
+          techs: ["Power BI", "SQL Server"],
+        },
+      ],
+      ProjectDetailsHeading: "Datos y Desafíos del Proyecto",
+      ProjectDetails: [
+        {
+          id: 1,
+          details: "Planteamiento del problema:",
+        },
+        {
+          id: 2,
+          details:
+            "Mediante Funciones, Procedimientos almacenados y vistas se obtiene la data de la empresa, se realiza un análisis de la data de ventas del dataset Northwind y se genera un dashboard en Power BI.",
+        },
+        {
+          id: 3,
+          details: "",
         },
       ],
       SocialSharingHeading: "Compartir proyecto",
