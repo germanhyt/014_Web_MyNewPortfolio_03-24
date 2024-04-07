@@ -23,7 +23,7 @@ const Home = () => {
             aria-label="More Projects"
           >
             <Button title="Más Proyectos" />
-          </Link>
+          </Link> 
         </div>
 
         <SectionAboutMe />
