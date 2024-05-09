@@ -1891,4 +1891,117 @@ export const projectsData = [
       ],
     },
   },
+  {
+    id: 16,
+    title: "App de Finanzas personales - NextJS",
+    category: "Web",
+    img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1715292099/006_Portfolio_Freelance/fiper-001_vk00rs.png",
+    ProjectHeader: {
+      title: "App de Finanzas personales",
+      publishDate: "Mayo del 2024",
+      tags: "Web",
+      link: "https://myfiperapp.vercel.app/",
+    },
+    ProjectImages: [
+      {
+        id: 1,
+        title: "",
+        img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1715292099/006_Portfolio_Freelance/fiper-002_hrtx73.png",
+      },
+      {
+        id: 2,
+        title: "",
+        img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1715292099/006_Portfolio_Freelance/fiper-003_dyvkjn.png",
+      },
+      {
+        id: 3,
+        title: "",
+        img: "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1715292099/006_Portfolio_Freelance/fiper-04_jvyq67.png",
+      },
+    ],
+    ProjectInfo: {
+      ClientHeading: "Acerca del cliente	",
+      CompanyInfo: [
+        {
+          id: 1,
+          title: "Nombre",
+          details: "Proyecto Personal",
+        },
+        {
+          id: 2,
+          title: "Servicios",
+          details: "-",
+        },
+        {
+          id: 3,
+          title: "Website",
+          details: "-",
+        },
+        {
+          id: 4,
+          title: "Celular",
+          details: "-",
+        },
+      ],
+      ObjectivesHeading: "Objetivo",
+      ObjectivesDetails:
+        "Crear una aplicación personal para gestionar los ingresos y gastos diarios que vaya haciendo durante el tiempo.",
+      Technologies: [
+        {
+          title: "Tecnologías usadas",
+          techs: ["HTML", "CSS", "JavaScript", "ReactJS", "NextJS"],
+        },
+      ],
+      ProjectDetailsHeading: "Datos y Desafíos del Proyecto",
+      ProjectDetails: [
+        {
+          id: 1,
+          details: "Consideraciones de la aplicación web:",
+        },
+        {
+          id: 2,
+          details:
+            "- El proyecto se trabajó bajo programación estructurada, se usó los lienamientos de la Clean Architecture donde se separó por carpetas los archivos. ",
+        },
+        {
+          id: 3,
+          details:
+            "- Se usó NextJS para la creación de la aplicación web, se usó el framework de ReactJS para la creación de componentes y el manejo de estados.",
+        },
+      ],
+      SocialSharingHeading: "Compartir proyecto",
+      SocialSharing: [
+        {
+          id: 1,
+          name: "Twitter",
+          icon: <FiTwitter />,
+          url: "https://twitter.com/",
+        },
+        {
+          id: 2,
+          name: "Instagram",
+          icon: <FiInstagram />,
+          url: "https://instagram.com/",
+        },
+        {
+          id: 3,
+          name: "Facebook",
+          icon: <FiFacebook />,
+          url: "https://facebook.com/",
+        },
+        {
+          id: 4,
+          name: "LinkedIn",
+          icon: <FiLinkedin />,
+          url: "https://linkedin.com/",
+        },
+        {
+          id: 5,
+          name: "Youtube",
+          icon: <FiYoutube />,
+          url: "https://www.youtube.com/",
+        },
+      ],
+    },
+  },
 ];
