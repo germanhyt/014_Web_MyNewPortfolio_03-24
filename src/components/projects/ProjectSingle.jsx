@@ -16,7 +16,7 @@ const ProjectSingle = ({ title, category, image, numberproject }) => {
         to={`/projects/single-project/${numberproject}`}
         aria-label="Single Project"
       >
-        <div className="rounded-xl shadow-lg hover:shadow-xl hover:scale-[0.9] transition-all duration-1000 cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark">
+        <div className="rounded-xl shadow-lg hover:shadow-xl hover:scale-[1.1] transition-all duration-1000 cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark">
           <div>
             <img
               src={image}
